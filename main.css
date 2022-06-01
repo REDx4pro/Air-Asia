@@ -400,10 +400,10 @@ justify-content: flex-end;
                 vertical-align: top;
                 width: 488px;
                 height: 502px;
-                background: url("/img/gates.png") center center / cover no-repeat;
+                background: url("https://redx4pro.github.io/Air-Asia/img/gates.png") center center / cover no-repeat;
             }
             .about__desc {
-                background: url("/img/mountains.png");
+                background: url("https://redx4pro.github.io/Air-Asia/img/mountains.png");
                 padding: 65px 83px;
                 max-width: 785px;
                 height: 455px;
@@ -468,28 +468,28 @@ justify-content: flex-end;
                 margin-right: 0;
             }
             .socials__item--icon--telegram .socials__link {
-                background-image: url(/img/t.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/t.png);
             }
             .socials__item--icon--telegram .socials__link:hover {
-                background-image: url(/img/th.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/th.png);
             }
             .socials__item--icon--vk .socials__link {
-                background-image: url(/img/vk.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/vk.png);
             }
             .socials__item--icon--vk .socials__link:hover {
-                background-image: url(/img/vkH.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/vkH.png);
             }
             .socials__item--icon--fb .socials__link {
-                background-image: url(/img/facebook.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/facebook.png);
             }
             .socials__item--icon--fb .socials__link:hover {
-                background-image: url(/img/facebookH.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/facebookH.png);
             }
             .socials__item--icon--in .socials__link {
-                background-image: url(/img/in.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/in.png);
             }
             .socials__item--icon--in .socials__link:hover {
-                background-image: url(/img/inH.png);
+                background-image: url(https://redx4pro.github.io/Air-Asia/img/inH.png);
             }
             .line {
                 border-top: 1px solid  #FFFFFF;
@@ -499,7 +499,7 @@ justify-content: flex-end;
                 
             }
             .main-page-wrapper {
-                background: url(/img/1.png) center top no-repeat, url(/img/2.png) center bottom 307px no-repeat;
+                background: url(https://redx4pro.github.io/Air-Asia/img/1.png) center top no-repeat, url(https://redx4pro.github.io/Air-Asia/img/2.png) center bottom 307px no-repeat;
             }
 
 /* service page*/
@@ -509,7 +509,7 @@ justify-content: flex-end;
                 padding-bottom: 25px;
                 display: flex;
                 flex-direction: column;
-                background: url(/img/headline.png) right 50% top no-repeat;
+                background: url(https://redx4pro.github.io/Air-Asia/img/headline.png) right 50% top no-repeat;
                           }
             .top-line__container {
                 display: flex;
