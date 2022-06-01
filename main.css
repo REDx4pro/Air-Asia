@@ -126,7 +126,7 @@ justify-content: flex-end;
 
     .contacts__dropdown-menu {
         position: absolute;
-        background: url(/img/partners/Прямоугольник\,\ скругл.\ углы\ 9.png) no-repeat;
+        background: url(https://redx4pro.github.io/Air-Asia/img/partners/Прямоугольник\,\ скругл.\ углы\ 9.png) no-repeat;
         border-radius: 4px;
         padding: 18px;
         top: 100%;
@@ -670,7 +670,7 @@ justify-content: flex-end;
                 }
                 
                 .review__user:after {
-                content: url("/img/vk-blue\ 1.png");
+                content: url("https://redx4pro.github.io/Air-Asia/img/vk-blue/1.png");
                 height: 29px;
                 }
 
@@ -718,8 +718,8 @@ justify-content: flex-end;
                 }
 
                 .separatar {
-                background:  url(/img/couple.png) right 100px bottom no-repeat, 
-                url(/img/Rectangle.png) bottom no-repeat;
+                background:  url(https://redx4pro.github.io/Air-Asia/img/couple.png) right 100px bottom no-repeat, 
+                url(https://redx4pro.github.io/Air-Asia/img/Rectangle.png) bottom no-repeat;
                 min-height: 360px;              
                 display: flex;
                 flex-direction: column;
@@ -831,7 +831,7 @@ justify-content: flex-end;
                         width: 100%;
                         align-items: center;
                         justify-content: center;
-                        background: url(/img/shades.png) center no-repeat, url(/img/bg.png), center no-repeat;
+                        background: url(https://redx4pro.github.io/Air-Asia/img/shades.png) center no-repeat, url(https://redx4pro.github.io/Air-Asia/img/bg.png), center no-repeat;
                     }
 
                     .central {
